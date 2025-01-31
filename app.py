@@ -12,7 +12,7 @@ def main():
             <br>
             <h3 style='text-align: justify;'>Sentiment Analysis on Patrick Kluivert Becoming the Coach of Indonesia National Football Team</h3>
             <p style='text-align: justify;'>
-                What is the public's reaction to the possibility of Patrick Kluivert becoming the head coach of the Indonesia National Team? With our sentiment analysis tool, you can track opinion trends on X in real-time! Does the majority support it? Are there criticisms? All data is summarized and easily understood.
+                What is the public's reaction to the possibility of Patrick Kluivert becoming the head coach of the Indonesia National Football Team? With our sentiment analysis tool, you can track opinion trends on X in real-time! Does the majority support it? Are there criticisms? All data is summarized and easily understood.
             </p>
             <br>
             <h3 style='text-align: justify;'>Purpose of Sentiment Analysis</h3>
