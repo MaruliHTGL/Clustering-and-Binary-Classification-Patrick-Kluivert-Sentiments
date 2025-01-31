@@ -25,7 +25,7 @@ def main():
             <p style='text-align: justify;'>By leveraging sentiment analysis, you can gain a clearer picture of public opinion and make informed conclusions.</p>
             <br>
             <p style='text-align: justify;'>
-                <strong>Disclaimer:</strong> This tool is only to help analyze and may analyze sentiments incorrectly. Perform further analysis to reduce analysis errors
+                <strong>Disclaimer:</strong> This tool is only to help analyze and may analyze sentiments incorrectly. Perform further analysis to reduce analysis errors!
             </p>
             <br>
             <p style='text-align: center;'><strong>Stay ahead and discover what people really think!</strong></p>
