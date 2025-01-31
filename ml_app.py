@@ -66,9 +66,9 @@ def run_ml_app():
 
     if prediction == 'Negative':
         st.warning("Negative Post")
-        st.write('Ini adalah sentimen negatif, mohon berhati-hati dalam memposting sesuatu di media sosial.')
+        st.write('Ini adalah sentimen negatif, mohon berhati-hati dalam mengunggah sesuatu di media sosial.')
     else:
         st.success('Positive Post')
-        st.write('Ini adalah sentimen positif, mohon berhati-hati dalam memposting sesuatu di media sosial.')
+        st.write('Ini adalah sentimen positif, mohon berhati-hati dalam mengunggah sesuatu di media sosial.')
 
     st.markdown('''<p style='text-align: justify;'> <br> <strong>Disclaimer:</strong> This tool is only to help analyze and may analyze sentiments incorrectly. Perform further analysis to reduce analysis errors!</p>''', unsafe_allow_html=True)
