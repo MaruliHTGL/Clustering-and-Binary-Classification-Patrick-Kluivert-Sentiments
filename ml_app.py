@@ -71,4 +71,4 @@ def run_ml_app():
         st.success('Positive Post')
         st.write('Ini adalah sentimen positif, mohon berhati-hati dalam memposting sesuatu di media sosial.')
 
-    st.markdown('''<p style='text-align: justify;'> <br> <strong>Disclaimer:</strong> This tool is only to help analyze and may analyze sentiments incorrectly. Perform further analysis to reduce analysis errors.</p>''', unsafe_allow_html=True)
+    st.markdown('''<p style='text-align: justify;'> <br> <strong>Disclaimer:</strong> This tool is only to help analyze and may analyze sentiments incorrectly. Perform further analysis to reduce analysis errors!</p>''', unsafe_allow_html=True)
