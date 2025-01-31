@@ -6,7 +6,7 @@ A tool to analyze the sentiment of posts discussing Patrick Kluivert becoming th
 
 <br>
 
-- Using datasets from [this file](https://www.kaggle.com/datasets/rezkyyayang/reviews-of-indonesian-app-startups-on-playstore?select=tokopedia.csv)
+- Using datasets from [this file](https://github.com/MaruliHTGL/Clustering-and-Binary-Classification-Patrick-Kluivert-Sentiments/blob/c7c3e8175f890b736d8d506035326f73f535c131/Patrick%20Kluivert.csv)
 - For the complete code please check [this file](https://github.com/MaruliHTGL/Clustering-and-Binary-Classification-Tokopedia-Review/blob/3aac05d8d83bb34096a319b955ad0ef79fb67efd/Tokopedia%20Review.ipynb)
 - To test the model please visit [this link](https://patrickkluivertsentiments.streamlit.app/)    <br> <br>
 - For positive sentiment, use this post:
